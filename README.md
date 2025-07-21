@@ -4,7 +4,7 @@ This project is a web-based simulator that visually demonstrates the concepts of
 This application is built with React and styled with Tailwind CSS.
 
 Live Demo
-You can see a live version of this project here: https://shubhammmyadav.github.io/Lamport-Vector-Clock-Simulator/
+You can see a live version of this project here: https://stalwart-gingersnap-d278de.netlify.app/
 
 Features
 Interactive Simulation: Visually create processes and events.
